@@ -127,4 +127,4 @@ TARGET_COPY_OUT_VENDOR := vendor
 BOARD_USES_METADATA_PARTITION := true
 
 # RECOVERY.FSTAB
-TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/fstab.mt6771
